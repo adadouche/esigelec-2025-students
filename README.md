@@ -18,13 +18,13 @@ LEARNING OBJECTIVES:
 
 ### Preparation
 
-- [Databricks Free Edition Set up](./02-labs/01-prepare/01-prepare-databricks/README.md)
-- [Amazon Web Services (AWS) - Free Tier Account Set up](./02-labs/01-prepare/01-prepare-aws/README.md)
-- [Confluent Cloud](./02-labs/01-prepare/01-prepare-confluent/README.md)
-- [Visual Studio Code](./02-labs/01-prepare/01-prepare-vscode/README.md)
+- [Databricks Free Edition Set up](./01-prepare/01-prepare-databricks/README.md)
+- [Amazon Web Services (AWS) - Free Tier Account Set up](./01-prepare/01-prepare-aws/README.md)
+- [Confluent Cloud](./01-prepare/01-prepare-confluent/README.md)
+- [Visual Studio Code](./01-prepare/01-prepare-vscode/README.md)
 
 ### Experiment
 
-- [Experiment with Databricks](./02-labs/02-experiment/02-experiment-databricks/README.md)
-- [Amazon Web Services (AWS)](./02-labs/02-experiment/02-experiment-aws/README.md)
+- [Experiment with Databricks](./02-experiment/02-experiment-databricks/README.md)
+- [Amazon Web Services (AWS)](./02-experiment/02-experiment-aws/README.md)
 
