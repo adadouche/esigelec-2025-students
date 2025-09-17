@@ -14,6 +14,18 @@ LEARNING OBJECTIVES:
 
 ## Class content
 
+- [00 - Introduction](./00-material/00_-_Introduction.pdf)
+- [01 - The concepts behind Business Intelligence](./00-material/01_-_The_concepts_behind_Business_Intelligence.pdf)
+- [02 - The concepts behind Big Data](./00-material/02_-_The_concepts_behind_Big_Data.pdf)
+- [03 - Comparing RDBMS, Data Warehouse, Data Lake, and Lakehouse](./00-material/03_-_Comparing_RDBMS,_Data_Warehouse,_Data_Lake,_and_Lakehouse.pdf)
+- [04 - ETL & Data Integration](./00-material/04_-_ETL_&_Data_Integration.pdf)
+- [05 - Lakehouse architecture](./00-material/05_-_Lakehouse_architecture.pdf)
+- [06 - Medallion architecture](./00-material/06_-_Medallion_architecture.pdf)
+- [07 - Apache Hadoop MapReduce Introduction](./00-material/07_-_Apache_Hadoop_MapReduce_Introduction.pdf)
+- [08 - Apache Spark Introduction](./00-material/08_-_Apache_Spark_Introduction.pdf)
+- [09 - Apache Spark SQL](./00-material/09_-_Apache_Spark_SQL.pdf)
+- [10 - Apache Spark SQL - RDD vs DataSet vs DataFrame](./00-material/10_-_Apache_Spark_SQL_-_RDD_vs_DataSet_vs_DataFrame.pdf)
+
 ## Labs
 
 ### Preparation
