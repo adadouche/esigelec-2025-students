@@ -14,17 +14,17 @@ LEARNING OBJECTIVES:
 
 ## Class content
 
-- [00 - Introduction](./00-material/00_-_Introduction.pdf)
-- [01 - The concepts behind Business Intelligence](./00-material/01_-_The_concepts_behind_Business_Intelligence.pdf)
-- [02 - The concepts behind Big Data](./00-material/02_-_The_concepts_behind_Big_Data.pdf)
-- [03 - Comparing RDBMS, Data Warehouse, Data Lake, and Lakehouse](./00-material/03_-_Comparing_RDBMS,_Data_Warehouse,_Data_Lake,_and_Lakehouse.pdf)
-- [04 - ETL & Data Integration](./00-material/04_-_ETL_&_Data_Integration.pdf)
-- [05 - Lakehouse architecture](./00-material/05_-_Lakehouse_architecture.pdf)
-- [06 - Medallion architecture](./00-material/06_-_Medallion_architecture.pdf)
-- [07 - Apache Hadoop MapReduce Introduction](./00-material/07_-_Apache_Hadoop_MapReduce_Introduction.pdf)
-- [08 - Apache Spark Introduction](./00-material/08_-_Apache_Spark_Introduction.pdf)
-- [09 - Apache Spark SQL](./00-material/09_-_Apache_Spark_SQL.pdf)
-- [10 - Apache Spark SQL - RDD vs DataSet vs DataFrame](./00-material/10_-_Apache_Spark_SQL_-_RDD_vs_DataSet_vs_DataFrame.pdf)
+- [00 - Introduction](./00-material/00%20-%20Introduction.pdf)
+- [01 - The concepts behind Business Intelligence](./00-material/01%20-%20The%20concepts%20behind%20Business%20Intelligence.pdf)
+- [02 - The concepts behind Big Data](./00-material/02%20-%20The%20concepts%20behind%20Big%20Data.pdf)
+- [03 - Comparing RDBMS, Data Warehouse, Data Lake, and Lakehouse](./00-material/03%20-%20Comparing%20RDBMS,%20Data%20Warehouse,%20Data%20Lake,%20and%20Lakehouse.pdf)
+- [04 - ETL & Data Integration](./00-material/04%20-%20ETL%20&%20Data%20Integration.pdf)
+- [05 - Lakehouse architecture](./00-material/05%20-%20Lakehouse%20architecture.pdf)
+- [06 - Medallion architecture](./00-material/06%20-%20Medallion%20architecture.pdf)
+- [07 - Apache Hadoop MapReduce Introduction](./00-material/07%20-%20Apache%20Hadoop%20MapReduce%20Introduction.pdf)
+- [08 - Apache Spark Introduction](./00-material/08%20-%20Apache%20Spark%20Introduction.pdf)
+- [09 - Apache Spark SQL](./00-material/09%20-%20Apache%20Spark%20SQL.pdf)
+- [10 - Apache Spark SQL - RDD vs DataSet vs DataFrame](./00-material/10%20-%20Apache%20Spark%20SQL%20-%20RDD%20vs%20DataSet%20vs%20DataFrame.pdf)
 
 ## Labs
 
@@ -40,4 +40,3 @@ LEARNING OBJECTIVES:
 - [Experiment with Databricks](./02-experiment/02-experiment-databricks/README.md)
 - [Amazon Web Services (AWS)](./02-experiment/02-experiment-aws/README.md)
 - [Confluent)](./02-experiment/02-experiment-confluent/README.md)
-
