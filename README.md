@@ -25,6 +25,7 @@ LEARNING OBJECTIVES:
 - [08 - Apache Spark Introduction](./00-material/08%20-%20Apache%20Spark%20Introduction.pdf)
 - [09 - Apache Spark SQL](./00-material/09%20-%20Apache%20Spark%20SQL.pdf)
 - [10 - Apache Spark SQL - RDD vs DataSet vs DataFrame](./00-material/10%20-%20Apache%20Spark%20SQL%20-%20RDD%20vs%20DataSet%20vs%20DataFrame.pdf)
+- [99 - recap](./00-material/19920-%20reCap.pdf)
 
 ## Labs
 
