@@ -40,4 +40,4 @@ LEARNING OBJECTIVES:
 
 - [Experiment with Databricks](./02-experiment/02-experiment-databricks/README.md)
 - [Amazon Web Services (AWS)](./02-experiment/02-experiment-aws/README.md)
-- [Confluent)](./02-experiment/02-experiment-confluent/README.md)
+- [Confluent](./02-experiment/02-experiment-confluent/README.md)
