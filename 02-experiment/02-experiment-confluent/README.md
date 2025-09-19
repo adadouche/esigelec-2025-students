@@ -31,16 +31,6 @@ The content and labs can be accessed here:
  - https://developer.confluent.io/courses/apache-kafka/events/
 
 
-### Kafka Streams 101
-
-Creating and storing events is useful, but being able to react to those events and process them is what is truly transformational to how businesses operate today.
-
-When you want the full control over the application logic, Kafka Streams is your go-to stream processing framework.
-
-The content and labs can be accessed here: 
-
- - https://developer.confluent.io/courses/kafka-streams/get-started/
-
 ### Apache Flink® 101
 
 Why is Flink useful, and how does it work? This course uses Flink SQL to introduce the core concepts of stream processing with Flink and shows how they fit together to solve real problems.
@@ -50,3 +40,13 @@ The content and labs can be accessed here:
 
  - https://developer.confluent.io/courses/apache-flink/intro/
 
+
+### Kafka Streams 101 (Optional)
+
+Creating and storing events is useful, but being able to react to those events and process them is what is truly transformational to how businesses operate today.
+
+When you want the full control over the application logic, Kafka Streams is your go-to stream processing framework.
+
+The content and labs can be accessed here: 
+
+ - https://developer.confluent.io/courses/kafka-streams/get-started/
